@@ -1,0 +1,23 @@
+// MiniLang source code example
+
+// Variable assignments
+x = 10
+y = 5
+
+// Basic arithmetic operations
+sum = x + y
+difference = x - y
+product = x * y
+quotient = x / y
+
+// Boolean variables
+is_greater = x > y
+is_equal = x == y
+is_not_equal = x != y
+
+// Conditional statements
+if is_greater {
+    print true
+} else {
+    print false
+}
